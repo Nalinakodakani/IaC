@@ -16,7 +16,7 @@ In outputs.tf, define outputs for the resources that you want to access after pr
 Step 4: Initialize and Apply the Configuration
 Run the following Terraform commands in your project directory.
 
-terraform init
+terraform init, 
 terraform apply
 
 Step 5: Review and Modify
